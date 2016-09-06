@@ -1,0 +1,171 @@
+<!doctype html>
+<!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="pt"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js lt-ie9 lt-ie8" lang="pt"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js lt-ie9" lang="pt"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="pt"> <!--<![endif]-->
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+
+	<title>Fisiatris - Recuperação Física, Lda </title>
+	<meta name="description" content="Sobre a Fisiatris, Clínica de Fisioterapia e Recuperação Física em Sacavém">
+	<meta name="author" content="">
+
+	<meta name="viewport" content="width=device-width">
+	<link rel="stylesheet" href="css/style.css">
+	<link href='http://fonts.googleapis.com/css?family=Nunito:400,700' rel='stylesheet' type='text/css'>
+    <link href='assets/favicon.ico' rel="shortcut icon" type="image/x-icon">
+	<script src="js/libs/modernizr-2.5.2.min.js"></script>
+    
+</head>
+<body>
+<header>
+	<img src="assets/fisisatris_logotipo.png" width="283" height="105" alt="Logotipo Fisiatris">    
+    <ul id="menu">
+        <li><a href="index.php">Home</a></li>
+        <li><a href="sobre.php">Sobre Nós</a></li>
+        <li><a href="tratamentos.php">Tratamentos</a></li>
+        <li><a href="acordos.php">Acordos</a></li>
+        <li><a href="contactos.php">Localização &amp; Contactos</a></li>
+    </ul><!--/menu-->
+</header>
+
+<div id="main_conteudo">
+	
+        <div class="main_texto" >
+            <h3 class="caixa_titulo">Instalações</h3>
+            <p style="margin-top:-3px; height:430px;">Dispomos de instalações acessíveis e acolhedoras. Além do Ginásio, possuímos áreas equipadas com moderna tecnologia terapêutica permitindo serviços como a Hidro Massagem, Electroterapia, Ondas de Choque, entre outros.</p>
+        </div>    
+        
+        <div id="sobre_galeria">
+           <img src="assets/instalacoes/1.jpg" width="350" height="215"> 
+           <img src="assets/instalacoes/2.jpg" width="350" height="215">
+           <img src="assets/instalacoes/3.jpg" width="350" height="215">
+           <img src="assets/instalacoes/4.jpg" width="350" height="215">
+        </div>
+  </div>      
+        
+</div>
+
+<div style="height:660px;" id="main2" class="caixa">
+ 
+ <h3 class="caixa_titulo left">A equipa</h3>
+            
+    <div class="left" style="clear:left; height:520px; border-right:#CCC solid thin;  margin-right:10px; width:370px;">
+        
+        <h4>Gerente</h4>
+        <p>António Caro</p>
+        
+        <h4>Director Clínico</h4>
+        <p>Dr. Hélder Guerreiro - Fisiatra</p>
+        
+        <h4>Clínico Geral</h4>
+        <p>Dr. Victor Carvalho</p>
+        
+        <h4>Reumatologista</h4>
+        <p>Dr. Miguel Sousa<p>
+        
+        <h4>Nutricionista</h4>
+        <p>Drª. Sara Sanches<p>
+              
+        
+        <h4>Terapeuta da Fala</h4>
+        <p>Drª Patrícia Oliveira</p>
+        
+        <h4>Psicóloga</h4>
+        <p>Drª Ana Caro</p>
+        
+        <h4>Recepcionista</h4>
+        <p>Fátima Pina</p>
+        </div>
+
+        <div class="left ie7">
+            <h4>Fisioterapeutas</h4>
+            
+            <ul>
+                <li>Ft.  Sérgio Caro</li>
+                <li>Ftª. Tatiana Caro</li>
+                <li>Ftª. Viviana Figueiredo</li>
+                <li>Ftª. Cláudia Pinheiro</li>
+                <li>Ftª. Ana Melissa</li>
+                <li>Ftª. Sónia Simões</li>
+                <li>Ftª. Catarina Soares</li>
+                <li>Ftª. Sara Cordeiro</li>
+                <li>Ftª. Viviana Figueiredo</li>
+                <li>Ftª. Eulália Caro</li>             
+            </ul>
+            
+            <h4>Técnicas auxiliares de Fisioterapia</h4>
+            <ul>
+                <li>Susana Figueiredo</li>
+                <li>Ana Coelho</li>
+                <li>Eunice Oliveira</li>
+                <li>Sandra Ribeiro</li>
+                <li>Rute Maltêz</li>
+                <li>Patrícia Ferreira</li>
+            </ul>
+       
+        </div>
+</div>
+
+<h3 class="caixa_lateral_titulo">Contactos<img style="top:-12px; left:30px;" src="assets/icon_telefone.png" width="47" height="46" alt="Imagem Telefone"></h3>
+<div class="caixa_lateral">Tel: 21 940 84 17/ 18 <br>&nbsp;21 941 07 64  <span style="margin-top:8px; display:block;	">Fax:&nbsp;21 940 84 36</span></div> 
+
+<h3 class="caixa_lateral_titulo">Horário<img style="top:-12px; left:30px;" src="assets/icon_relogio.png" width="45" height="45" alt="Imagem Relógio"></h3>
+<div class="caixa_lateral">De Segunda a Sexta<br> das 8:00h às 20:00h   </div> 
+
+<h3 class="caixa_lateral_titulo">Acordos<img style="top:-12px; left:30px;" src="assets/icon_acordos.png" width="45" height="45" alt="Imagem Acordos"></h3>
+<div class="caixa_lateral"><img src="assets/acordos.jpg"  alt="ADSE Medicare Médis"> <a href="acordos.php">Consultar todos os acordos dísponiveis.</a> </div> 
+
+
+</div>
+
+<footer><span style="float:left;">&copy; 2012 Fisiatris | Rua Sport Grupo Sacavenense, Nº22 - A Quinta do Património -2685-010 Sacavém</span>
+<a href="http://www.rubencaldeira.pt">Desenvolvido por: RC Web Design</a>
+</footer>
+
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+<script>window.jQuery || document.write('<script src="js/libs/jquery-1.7.1.min.js"><\/script>')</script>
+
+
+<script type="text/javascript" src="js/rhinoslider-1.03.js"></script>
+<script type="text/javascript" src="js/mousewheel.js"></script>
+<script>
+
+$(document).ready(function() {
+	$('#sobre_galeria').rhinoslider({
+		effect: 'fade',
+		easing: 'linear',
+		showTime: 3000,
+		effectTime: 1000,
+		controlsPrevNext: false,		
+		controlsPlayPause: false,
+		animateActive:false,
+		autoPlay: true,
+		showBullets: 'never',
+		showControls: 'never'
+	});
+});
+</script>
+<script src="js/plugins.js"></script>
+<script src="js/script.js"></script>
+
+<!--[if lt IE 9]>
+<script type="text/javascript" src="js/curvycorners.js"></script>
+<![endif]-->
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-16636359-5']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+</body>
+</html>
